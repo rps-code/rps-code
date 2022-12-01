@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=rps.codes&style=for-the-badge&url=https%3A%2F%2Frps.codes)](https://rps.codes)
 
-## Full-time Web & FiveM Developer
+## Full-time Web Developer
 
 - 🌱 I’m currently focusing on Vue & React
 - 🥅 2022 Goals: Create simple, open source web libraries
