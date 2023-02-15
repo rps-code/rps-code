@@ -5,7 +5,7 @@
 ## Full-time Web Developer
 
 - 🌱 I’m currently focusing on Vue & React
-- 🥅 2022 Goals: Create simple, open source web libraries
+- 🥅 2023 Goal: Create simple, open source web libraries
 
 ### Languages and Tools:
 
