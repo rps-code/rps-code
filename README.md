@@ -1,14 +1,9 @@
 # Hi there, I'm Karl - aka rps 👋 
 
-[![Website](https://img.shields.io/website?label=rps.codes&style=for-the-badge&url=https%3A%2F%2Frps.codes)](https://rps.codes)
+## Full-time Front-End Engineer
 
-## Full-time Web Developer
-
-- 🌱 I’m currently focusing on Vue & React
+- 🌱 I’m currently focusing on Vue
 - 🥅 2023 Goal: Create simple, open source web libraries
-
-<br />
-<br />
 
 ---
 
