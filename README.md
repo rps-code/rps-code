@@ -50,21 +50,6 @@ Full-time Frontend Software Engineer with 6 years of experience. Mainly self-tau
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-
-### Socials
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/karl-chelton-ba067a174/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://codepen.io/Kxrl" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a>
-  <a href="https://twitter.com/karlchelton" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
 ### Badges
 <div align="left">
   <a href="https://github.com/rps-code" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rps-code&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
