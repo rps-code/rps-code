@@ -4,12 +4,12 @@ Hi, I'm Karl - aka rps 👋
 Frontend Software Engineer
 ---------------------
 
-Full-time Frontend Software Engineer with 6 years of experience. Mainly self-taught with an Extended Diploma in Interactive Media & Software.
+Full-time Frontend Software Engineer with 8 years of experience. Mainly self-taught with an Extended Diploma in Interactive Media & Software.
 
 * 🌍  Based in the UK
 * 🧠  Learning Vue 3 & Typescript
 * 🤝  Open to collaborating on anything FE related
-* ⚡  My 2023 Goal is to create simple, open source web libraries
+* ⚡  My 2024 Goal is to create simple, open source web libraries
 
 ### Skills
 
