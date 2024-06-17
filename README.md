@@ -7,7 +7,7 @@ Frontend Software Engineer
 Full-time Frontend Software Engineer with 8 years of experience. Mainly self-taught with an Extended Diploma in Interactive Media & Software.
 
 * 🌍  Based in the UK
-* 🧠  Learning Vue 3 & Typescript
+* 🧠  Specialising in Vue 3 & Typescript
 * 🤝  Open to collaborating on anything FE related
 * ⚡  My 2024 Goal is to create simple, open source web libraries
 
@@ -32,8 +32,6 @@ Full-time Frontend Software Engineer with 8 years of experience. Mainly self-tau
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
