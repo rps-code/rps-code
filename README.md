@@ -9,7 +9,6 @@ Full-time Frontend Software Engineer with 8 years of experience. Mainly self-tau
 * 🌍  Based in the UK
 * 🧠  Specialising in Vue 3 & Typescript
 * 🤝  Open to collaborating on anything FE related
-* ⚡  My 2024 Goal is to create simple, open source web libraries
 
 ### Skills
 
